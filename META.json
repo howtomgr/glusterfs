@@ -1,0 +1,61 @@
+{
+  "category": "distributed-storage",
+  "created_date": "2025-09-15T22:48:57.650989",
+  "default_ports": [
+    80,
+    443,
+    24007
+  ],
+  "dependencies": [],
+  "description": "glusterfs is a free and open-source scale-out storage. GlusterFS provides scale-out network-attached storage file system",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/distributed-storage/glusterfs",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/distributed-storage/glusterfs",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:57.651006",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "glusterfs",
+  "repository_url": "https://github.com/howtomgr/glusterfs",
+  "spec_version": "2.0",
+  "subcategory": "distributed-storage",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "distributed-storage",
+    "containerization",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "glusterfs Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/distributed-storage/glusterfs"
+}
